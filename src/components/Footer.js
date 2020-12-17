@@ -65,7 +65,7 @@ function Footer() {
           <div className='footer-logo'>
             <Link to='/' className='social-logo'>
               WORLD
-              <i class="fas fa-globe" />
+              <i className="fas fa-globe" />
             </Link>
           </div>
           <small className='website-rights'>WORLD © 2020</small>
